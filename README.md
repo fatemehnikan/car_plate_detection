@@ -1,5 +1,5 @@
 
-# Project Title
+# Car Plate Detection (Iran's Format)
 
 This project has been done only to try yolov7.
 
